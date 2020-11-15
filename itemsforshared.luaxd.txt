@@ -1,0 +1,5 @@
+'iron'
+'steel'
+'copper'
+'emerald'
+'diamond'
